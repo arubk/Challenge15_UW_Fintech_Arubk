@@ -9,8 +9,8 @@ Videos of the AWS Lex bot being tested are located in the videos folder.
 ## Technologies
 The RoboAdvisor is written in Python 3.9.7 and uses the following libraries:
 
-datetime 
-relativedelta 
+* datetime 
+* relativedelta 
 
 The application runs from the command line on Windows, Linux or Mac OS systems, or from the Anaconda Navigator Software.
 
