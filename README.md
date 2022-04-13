@@ -14,6 +14,12 @@ The RoboAdvisor is written in Python 3.9.7 and uses the following libraries:
 
 The application runs from the command line on Windows, Linux or Mac OS systems, or from the Anaconda Navigator Software.
 
+## Software version control
+Amazon Lex is used to create the RoboAdvisor
+### Step 1: Initiate the bot
+
+<img width="742" alt="create a bot" src="https://user-images.githubusercontent.com/94565094/163096639-a6c7c36a-04d4-419f-befa-bb5aaa6af3da.png">
+
 
 ## Contributors
 Project author : A.Rubkevich
@@ -23,4 +29,4 @@ Contact information : anastasiyarubkevich@github.com
 ## License
 MIT License
 
-Copyright (c) 2021
+Copyright (c) 2022
