@@ -36,7 +36,6 @@ Amazon Lex is used to create the RoboAdvisor
 ![deploy](https://user-images.githubusercontent.com/94565094/163098257-b4ab5288-73a8-4a98-88d5-f47ebefe77d4.png)
 
 ### Step 6: Build and Test the Robo Advisor
-https://user-images.githubusercontent.com/94565094/163098484-42080cee-02a1-4a0f-8d3f-3d325d77b7f7.mp4
 
 ## Contributors
 Project author : A.Rubkevich
